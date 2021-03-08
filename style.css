@@ -1,0 +1,20 @@
+.center-content {
+  text-align: center;
+}
+
+#play-game {
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+}
+
+.player-selection,
+.ai-selection {
+  margin: 40px;
+}
+
+.player-selection img,
+.ai-selection img {
+  width: 150px;
+  height: auto;
+}
